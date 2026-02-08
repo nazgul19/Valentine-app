@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Teddy } from "./images/teddy";
+import { Teddy } from "./images/Teddy";
 import { Button } from "./Components/Button";
 import { DancingKid } from "./images/Kid";
 function App() {
