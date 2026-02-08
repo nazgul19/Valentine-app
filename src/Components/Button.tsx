@@ -7,8 +7,8 @@ interface ButtonProps {
 }
 
 const variantStyles = {
-  primary: "bg-pink-400 rounded-full text-slate-200 font-bold",
-  secondary: "bg-gray-200 rounded-full",
+  primary: "bg-pink-400 rounded-full text-slate-200 font-bold cursor-pointer",
+  secondary: "bg-gray-200 rounded-full cursor-pointer",
 };
 
 const SizeStyles = {
